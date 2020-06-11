@@ -2,8 +2,6 @@
 main:
   - title: "Stellar Universe"
     url: _pages/stellar
-  - title: "Images of Simulations"
-    url: _pages/simulating
   - title: "Publications"
     url: _pages/pubs
   - title: "CV"
