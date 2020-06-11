@@ -14,4 +14,4 @@ header:
   overlay_filter: "0.5"
 
 ---
-[Here]({{ site.url }}/assets/pdfs/achael_cv.pdf) is a link to download a .pdf of my cv.
+[Here]({{ site.url }}/assets/pdfs/CV_ac.pdf) you can find a pdf of my CV.
