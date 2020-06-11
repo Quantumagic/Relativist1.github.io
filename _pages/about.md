@@ -37,6 +37,6 @@ I did my 12th in 2015 and then joined Dyal Singh College for BSc. Physics Hons. 
 
 
 
-{% include gallery caption="Some recent photos from my travels" %}
+
 
 
