@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" #"contrast" # "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrew Chael"
+title                    : "Saurabh"
 title_separator          : "-"
-name                     : "Andrew Chael"
-description              : "Simulating and Imaging Black Holes with the Event Horizon Telescope."
+name                     : "Saurabh"
+description              : "Simulations of Black Holes and other compact objects."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,9 +77,9 @@ yandex_site_verification :
 naver_site_verification  :
 # Social Sharing
 twitter:
-  username               : "thisgreyspirit"
+  username               :
 facebook:
-  username               : 
+  username               : "saurabh.cosmos"
   app_id                 :
   publisher              :
 og_image                 : /assets/images/bh.png
@@ -89,7 +89,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/thisgreyspirit"
+    - "https://facebook.com/saurabh.cosmos"
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
@@ -99,36 +99,40 @@ analytics:
 
 # Site Author
 author:
-  #name             : "Andrew Chael"
+  #name             : "Saurabh"
   #avatar            : /assets/images/bh_small.png
-  bio              : "Astrophysicist simulating and imaging Black Holes with the Event Horizon Telescope. Black holes, accretion disks & jets, MHD simulations, computational imaging, and other topics. 
-                      <br /> <br /> 
-                      achael@princeton.edu
-                      <br />  <br /> 
-                      411A Jadwin Hall  <br /> 
-                      Princeton University <br />
-                      Princeton, NJ 08540
+  bio              : "Final year undergad student (BSc. Physics Hons.) and founder of 'Stellar Universe'. Interested in General Relativity, imaging Black Holes and other compact objects, radio interferometric imaging which includes both numerical and theoretical aspects.
+                <br />
+                    Also, engaged in organising outreach activites as a part of Stellar Universe.
+                <br />
+                    Dyal Singh College, University of Delhi
+                <br /> <br />
+                      sbhkmr1999@gmail.com
+                <br />  <br />
+                      Dyal Singh College,  <br />
+                      University of Delhi, <br />
+                      Delhi, India
                       <br />  <br /> 
                        "
 
-  email            : "achael@cfa.harvard.edu"
+  email            : "sbhkmr1999@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/achael"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/thisgreyspirit"
+      url: "https://github.com/Relativist1"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/saurabh.cosmos"
 
 
 #footer:
 #  links:
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/achael"
+#      url: "https://github.com/Relativist1
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/thisgreyspirit"
+#      url: "https://facebook.com/saurabh.cosmos"
 
 # Reading Files
 include:
