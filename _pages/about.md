@@ -13,37 +13,30 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
 
-gallery:
-  - url: /assets/images/hiking.jpg
-    image_path: /assets/images/hiking.jpg
-    title: "hiking in the Redwoods in 2016"
-  - url: /assets/images/rs.jpg
-    image_path: /assets/images/rs.jpg
-    title: "in Red Square in 2017"
-  - url: /assets/images/pantheon.jpg
-    image_path: /assets/images/pantheon.jpg
-    title: "at the Pantheon in 2018"
-    "
+gallery: 
+  - url: 
+    image_path: 
+    title: 
+
 ---
 
-{% include figure image_path="/assets/images/pp.jpeg" alt="Gauribindaur Radio Observatory %}{: .align-right}
+{% include figure image_path="/assets/images/pp.jpeg" alt="Gauribindaur Radio Observatory" %}{: .align-right}
 
 Hello, My name is Saurabh. I live in Delhi , the capital state of India.
 
-fasdfsafsdafgds
-
-<!--
 I am a final year undergrad student at [Dyal Singh College, University of Delhi](http://dsc.du.ac.in) 
 
-I am working in bh sim [simulating](/_pages/simulating) and [imaging](/_pages/imaging) the EHT's black hole targets <a href="https://en.wikipedia.org/wiki/Sagittarius_A*">Sgr A*</a> and [M87](https://en.wikipedia.org/wiki/Messier_87). My primary graduate adviser is [Ramesh Narayan](https://www.cfa.harvard.edu/~narayan/), and I am also advised by [Shep Doeleman](https://astronomy.fas.harvard.edu/people/shep-doeleman) and [Michael Johnson](http://www.scintillatingastronomy.com/).
--->
-
-I grew up in Albuquerque, New Mexico. I received a BA in Physics with a secondary concentration in Medieval studies from [Carleton College](https://www.carleton.edu/) in 2013, and I earned a Ph.D. in Physics from Harvard University in 2019. At Harvard, I worked at the [Black Hole Initiative](https://bhi.fas.harvard.edu/); I was advised by [Ramesh Narayan](https://www.cfa.harvard.edu/~narayan/), [Shep Doeleman](https://astronomy.fas.harvard.edu/people/shep-doeleman) and [Michael Johnson](http://www.scintillatingastronomy.com/).
+I am currently working on simulation of Black Holes which includes both theoretical and numerical work. Currently I am engaged in two major projects related to shadows. The first project is in collaboration with [International Centre for Cosmology (ICC)](http://icc.charusat.ac.in/) and project advisor is [Prof. Pankaj Joshi](https://www.charusat.ac.in/provost_charusat/) (Director of ICC). The other project is with [Dr. Sourabh Nampalliwar](https://www.tat.physik.uni-tuebingen.de/~nampalliwar/) from University of Tübingen.
 
 <!--
-#I also serve as a [Resident Tutor](https://dunster.harvard.edu/resident-tutors/) at [Dunster House](https://dunster.harvard.edu) in Harvard College, where I mentor and advise undergraduates on national fellowship applications, LGBTQ life, physics and astronomy courses, and paths to graduate school.
+hole targets <a href="https://en.wikipedia.org/wiki/Sagittarius_A*">Sgr A*</a> and [M87](https://en.wikipedia.org/wiki/Messier_87)
 -->
+
+I did my 12th in 2015 and then joined Dyal Singh College for BSc. Physics Hons. I always had a deep interest in astronomy and astrophysics, but wasn't able to do anything in the same due to lack of oppourtunities, untill I (along with some friends) started a student's organisation [Stellar Universe](www.facebook.com/stellaruniverse1)  in my first year and started organising outreach activites with help from Nehru Planetarium, Delhi and a great amount of support from Dr. Rathnashree Nandivada (Director, Nehru Planetarium), Dr. Neeraj Saxena (Advisor II, AICTE) , Dr. Shibesh Kumar (Cosmologist, Assistant Professor, VIT University) and from my friends. Today the group has more than 500 active people all over the nation connected together in order to follow their passion for astronomy and astrophysics.
+
+
 
 
 {% include gallery caption="Some recent photos from my travels" %}
+
 
