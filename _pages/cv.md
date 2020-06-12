@@ -5,7 +5,7 @@ classes:
     - landing
     - dark-theme
 title: Curriculum Vitae
-author_profile: true
+author_profile: false
 
 header:
   overlay_image: /assets/images/M87.png
@@ -15,3 +15,4 @@ header:
 
 ---
 [Here](https://relativist1.github.io/assets/pdfs/CV_ac.pdf) you can find a pdf of my CV.
+

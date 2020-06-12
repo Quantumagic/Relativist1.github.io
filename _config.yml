@@ -270,6 +270,8 @@ defaults:
       path: ""
       type: posts
     values:
+      sidebar:
+      nav : 
       layout: single
       author_profile: true
       read_time: false
