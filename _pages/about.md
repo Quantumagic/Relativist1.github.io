@@ -32,7 +32,9 @@ I am currently working on simulation of Black Holes which includes both theoreti
 hole targets <a href="https://en.wikipedia.org/wiki/Sagittarius_A*">Sgr A*</a> and [M87](https://en.wikipedia.org/wiki/Messier_87)
 -->
 
-I did my 12th in 2015 and then joined Dyal Singh College for BSc. Physics Hons. I always had a deep interest in astronomy and astrophysics, but wasn't able to do anything in the same due to lack of oppourtunities, untill I (along with some friends) started a student's organisation [Stellar Universe](www.facebook.com/stellaruniverse1)  in my first year and started organising outreach activites with help from Nehru Planetarium, Delhi and a great amount of support from Dr. Rathnashree Nandivada (Director, Nehru Planetarium), Dr. Neeraj Saxena (Advisor II, AICTE) , Dr. Shibesh Kumar (Cosmologist, Assistant Professor, VIT University) and from my friends. Today the group has more than 500 active people all over the nation connected together in order to follow their passion for astronomy and astrophysics.
+I did my 12th in 2017 and then joined Dyal Singh College for BSc. Physics Hons. I always had a deep interest in astronomy and astrophysics, but wasn't able to do anything in the same due to lack of oppourtunities, untill I (along with some friends) started a student's organisation [Stellar Universe](www.facebook.com/stellaruniverse1)  in my first year and started organising outreach activites with help from Nehru Planetarium, Delhi and a great amount of support from Dr. Rathnashree Nandivada (Director, Nehru Planetarium), Dr. Neeraj Saxena (Advisor II, AICTE) , Dr. Shibesh Kumar (Cosmologist, Assistant Professor, VIT University) and from my friends. Today the group has more than 500 active people all over the nation connected together in order to follow their passion for astronomy and astrophysics.
+
+
 
 <!--
 hole targets <a href="https://en.wikipedia.org/wiki/Sagittarius_A*">Sgr A*</a> and [M87](https://en.wikipedia.org/wiki/Messier_87)
